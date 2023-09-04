@@ -1,0 +1,9 @@
+{
+  "privatePem": "",
+  "identity": "",
+  "namespace": "",
+  "ledger": {
+    "url": "",
+    "port": 5260
+  }
+}

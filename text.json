@@ -1,0 +1,39 @@
+{
+  "$umid": "eb776ff244586beed5159bc0c45dea150260388d8a2ecb0990406209dac1fca3",
+  "$summary": {
+    "total": 2,
+    "vote": 2,
+    "commit": 2
+  },
+  "$debug": {
+    "$tx": {
+      "$namespace": "testing",
+      "$contract": "5151d4ebb66a9e4f381b9597075541650cfd5f5541b09a9ee19e1ebbbf3a7021",
+      "$entry": "",
+      "$i": {
+        "context": {
+          "$stream": "1bb2d2ce6798846605d60b00824c4c0674e8c24b7c0a970de94d8ea2a17241bc"
+        }
+      }
+    },
+    "$sigs": {
+      "1bb2d2ce6798846605d60b00824c4c0674e8c24b7c0a970de94d8ea2a17241bc": "jRhA6UqVORwxT08yLlmu2nAwEC3LVJ749OhlOIHol2rw9SsEE1ogK7nbJkaY8MijP3Kn4z4UyTHJsqq8lRyK8CXxulHmM0Mwuv1JBxHEku7GHm7J6s2F4HrEl3eHWyxdA7dtGyIbrRacJh/LxGkU5wrLw2uMXd8K3M7SDVEF7AXoLlrlANpQyEORwFWwjcxs/tOEHCwSIdsFcZcFp55mxH6FVmsww68t7YZxonDwtLH3Oy1ACU2wll6OUpeyAReU9k0yHVcHlXupECz0/DVjpv6JvmG1qTYONqg64LWGuwTbG8xZ04w6V83SUvNKrieMaXdbbJYtWgOy7nIUFzj7cw=="
+    },
+    "$datetime": "2023-07-24T16:19:31.128Z",
+    "$origin": "c247d59bcd692a709984d33cdbfa95263c92f65d",
+    "$umid": "eb776ff244586beed5159bc0c45dea150260388d8a2ecb0990406209dac1fca3",
+    "$remoteAddr": "::ffff:127.0.0.1",
+    "$broadcast": false,
+    "$nodes": {
+      "c247d59bcd692a709984d33cdbfa95263c92f65d": {
+        "vote": true,
+        "commit": true
+      },
+      "4149bce01c9e6de9512818f28882b571e8693cbd": {
+        "vote": true,
+        "commit": true
+      }
+    },
+    "$territoriality": "4149bce01c9e6de9512818f28882b571e8693cbd"
+  }
+}
